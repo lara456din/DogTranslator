@@ -38,7 +38,7 @@ DogTranslator is a cutting-edge web application that leverages sound analysis an
 
 **Name**: CodeSavvy  
 **Email**: 
-**Website**: 
+**Website**: [DogTranslator]https://www.dogtranslator.net)
 
 **Bio**:  
 CodeSavvy is a full-stack developer with 10+ years of experience in building intuitive web applications. A master of React, Node.js, and UI/UX design, he has a passion for AI-integrated pet care tech and is known for being highly collaborative and always willing to help new developers. CodeSavvy believes that technology can bridge the gap between species in fun and meaningful ways.
